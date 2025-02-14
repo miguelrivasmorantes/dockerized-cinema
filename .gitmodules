@@ -1,6 +1,8 @@
 [submodule "api-cine"]
 	path = api-cine
 	url = https://github.com/miguelrivasmorantes/api-cine.git
+	branch = develop
 [submodule "absolute-cinema"]
 	path = absolute-cinema
 	url = https://github.com/miguelrivasmorantes/absolute-cinema.git
+	branch = develop
