@@ -1,0 +1,14 @@
+absolute-cinema/node_modules
+absolute-cinema/.svelte-kit
+absolute-cinema/build
+
+api-cine/vendor
+api-cine/node_modules
+api-cine/storage
+api-cine/.env
+
+.git
+.gitignore
+.DS_Store
+Thumbs.db
+.env
